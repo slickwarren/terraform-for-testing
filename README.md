@@ -1,2 +1,2 @@
 # terraform-for-testing
-adding non-sensitive terraform tests
+A repo for your non-sensitive terraform tests
